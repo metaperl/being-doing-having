@@ -42,7 +42,7 @@ Hi, and thank you for getting to know me. I'm still trying to do that myself. Mo
 
 
 </t>
-<t tx="metaperl.20191124091553.1">Jack Slevkoff has a great website that shows how I think about money, tax and law - http://www.usavsus.info/
+<t tx="metaperl.20191124091553.1">I've learned a lot about money, tax and law. More than the financial elite want anyone to know. It's all at my blog - http://www.MyMoneyMagick.com
 
 </t>
 <t tx="metaperl.20191124091639.1">Do you know the difference between Terrence-Monroe: Brannon and TERRENCE MONROE BRANNON? If not, you have not met your strawman.
