@@ -11,7 +11,7 @@
 <vnodes>
 <v t="metaperl.20191124091501.2" a="E"><vh>Terrence-Monroe: Brannon</vh>
 <v t="metaperl.20191124100336.1" a="E"><vh>Life Mission and Vision</vh>
-<v t="metaperl.20191124100440.1"><vh>Isolation-Tank-Gnosis	</vh></v>
+<v t="metaperl.20191124100440.1"><vh>Isolation-Tank-Gnosis</vh></v>
 <v t="metaperl.20191124100629.1"><vh>The Quiet Center</vh></v>
 <v t="metaperl.20191124101243.1"><vh>IRS Slam Dunk</vh></v>
 </v>
@@ -57,8 +57,7 @@ https://docs.google.com/spreadsheets/d/1fK1Xj4BbusslkcFqq3I7b-mD7A195gbisdO8Af0x
 
 The divorce rate is over 50% and many of those in marriages are unhappy. www.unfencedrelationships.com provides a real relationship solution. JJ Roberts is a genius. Too bad he cares more about money for himself than forming a community.
 </t>
-<t tx="metaperl.20191124092807.1">
-vegan/vegetarian with a host of experimentation detailed at https://docs.google.com/spreadsheets/d/1fK1Xj4BbusslkcFqq3I7b-mD7A195gbisdO8Af0xKbk/edit?usp=sharing</t>
+<t tx="metaperl.20191124092807.1">vegan/vegetarian with a host of experimentation detailed at https://docs.google.com/spreadsheets/d/1fK1Xj4BbusslkcFqq3I7b-mD7A195gbisdO8Af0xKbk/edit?usp=sharing</t>
 <t tx="metaperl.20191124093052.1">* https://www.linkedin.com/in/softwareartisan
 * http://facebook.com/terrence.brannon
 * https://www.youtube.com/user/TheQuietCenter/playlists?view_as=subscriber
