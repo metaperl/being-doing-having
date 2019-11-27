@@ -33,6 +33,13 @@
 </vnodes>
 <tnodes>
 <t tx="metaperl.20191124091501.2">@language md
+
+Hi, and thank you for getting to know me. I'm still trying to do that myself. Most of what I call "me" is merely impersonal phenomena passing by.
+
+![][https://www.gravatar.com/avatar/aac13cee52b99246904c16288209b2a8?s=328&amp;d=identicon&amp;r=PG]
+
+![][https://st2.ning.com/topology/rest/1.0/file/get/2215266515?profile=RESIZE_180x180&amp;width=48&amp;height=48&amp;crop=1:1]
+
 </t>
 <t tx="metaperl.20191124091553.1">Jack Slevkoff has a great website that shows how I think about money, tax and law - http://www.usavsus.info/
 
