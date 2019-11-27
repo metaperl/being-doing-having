@@ -32,7 +32,8 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="metaperl.20191124091501.2"></t>
+<t tx="metaperl.20191124091501.2">@language md
+</t>
 <t tx="metaperl.20191124091553.1">Jack Slevkoff has a great website that shows how I think about money, tax and law - http://www.usavsus.info/
 
 </t>
@@ -73,6 +74,8 @@ The divorce rate is over 50% and many of those in marriages are unhappy. www.unf
 <t tx="metaperl.20191124093745.1">Non-violent communication is a powerful way to state your truth without giving away your power. 
 
 JJ Robert's book "Sex 3.0" changed the way I think about relationships. My endeavors in sacred sexuality are also down this line.
+
+"The Book of the Mother" by the Shiva Lila community also changed my thinking about children and marriage.
 </t>
 <t tx="metaperl.20191124100336.1">My life mission consists of inner work and outer work. The inner work is more important.
 </t>
@@ -86,7 +89,7 @@ https://isolationtankgnosis.wordpress.com/
 * an analogy for the shakshibhava - the silent witness of all events. I AM = Sat-Chit-Ananda: the uncreated witness of the 5 lower sheaths: (1) food-sheath (2) prana sheath (3) lower-mind (4) higher-mind (5) bliss
 * An intentional community based around spiritual practices that work certainly and work fast (15 minutes to 21 days). I spent 31 days at Madre Grande monastery and I did have a transformation but it could have been faster and more certain with the methods available at http://TheQuietCenter.org - orgasmic mindfulness, isolation tank, pranayama ... conflict resolution and forgiveness are a must in community ... who is really willing to sacrifice their ego in community?
 </t>
-<t tx="metaperl.20191124101243.1">Create the "IRS Slam Dunk" affidavit to free people from the lies and tricks of the IRS - how can anyone report income when the term is not defined in their 3 million word document?
+<t tx="metaperl.20191124101243.1">Create the "IRS Slam Dunk" affidavit to free people from the lies and tricks of the IRS - how can anyone report income when the term "income" is not defined in their 3 million word code?
 </t>
 </tnodes>
 </leo_file>
