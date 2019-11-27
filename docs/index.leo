@@ -26,7 +26,7 @@
 </v>
 <v t="metaperl.20191124091553.1" a="E"><vh>Money, Tax and Law</vh>
 <v t="metaperl.20191124091639.1"><vh>Have you Met Your Strawman?</vh></v>
-<v t="metaperl.20191124091655.1"><vh>Have you fallen for the Income Tax Mass Hypnosis?</vh></v>
+<v t="metaperl.20191124091655.1"><vh>Do not pay income tax!!!</vh></v>
 <v t="metaperl.20191124092010.1"><vh>Gold is Real Money but Crypto Rocks</vh></v>
 </v>
 </v>
@@ -49,7 +49,7 @@ Hi, and thank you for getting to know me. I'm still trying to do that myself. Mo
 
 Your strawman was born the same day you were, but the government did not tell you about it - https://www.youtube.com/watch?v=ME7K6P7hlko&amp;feature=emb_title
 </t>
-<t tx="metaperl.20191124091655.1">If so, then you must read my article:
+<t tx="metaperl.20191124091655.1">Please read my article:
 http://mymoneymagick.com/tax/do-not-file-or-pay-income-tax/
 </t>
 <t tx="metaperl.20191124092010.1">Gold is the longest, strongest store of value on Planet Earth:
@@ -72,6 +72,9 @@ The divorce rate is over 50% and many of those in marriages are unhappy. www.unf
 * https://www.youtube.com/user/TheQuietCenter/playlists?view_as=subscriber
 </t>
 <t tx="metaperl.20191124093245.1">Love it - I moderate this  https://www.reddit.com/r/streetdance/
+
+Wanna see me doing some Memphis Jookin? Check me out! https://www.youtube.com/watch?v=ewx0t2_V8Qo
+
 </t>
 <t tx="metaperl.20191124093656.1">Maya does a wonderful dance of illusion:
 
