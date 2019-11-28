@@ -29,6 +29,7 @@
 <v t="metaperl.20191124091655.1"><vh>Do not pay income tax!!!</vh></v>
 <v t="metaperl.20191124092010.1"><vh>Gold is Real Money but Crypto Rocks</vh></v>
 </v>
+<v t="metaperl.20191128032627.1"><vh>Daily Bread</vh></v>
 </v>
 </vnodes>
 <tnodes>
@@ -101,6 +102,19 @@ https://isolationtankgnosis.wordpress.com/
 * An intentional community based around spiritual practices that work certainly and work fast (15 minutes to 21 days). I spent 31 days at Madre Grande monastery and I did have a transformation but it could have been faster and more certain with the methods available at http://TheQuietCenter.org - orgasmic mindfulness, isolation tank, pranayama ... conflict resolution and forgiveness are a must in community ... who is really willing to sacrifice their ego in community?
 </t>
 <t tx="metaperl.20191124101243.1">Create the "IRS Slam Dunk" affidavit to free people from the lies and tricks of the IRS - how can anyone report income when the term "income" is not defined in their 3 million word code?
+</t>
+<t tx="metaperl.20191128032627.1">I write computer programs professionally:
+
+* Here's my source code - https://github.com/metaperl
+* And some more source code - https://gitlab.com/metaperl
+* I finally managed to keep a LinkedIn account without getting banned. Check it out! https://www.linkedin.com/in/softwareartisan
+
+Mild-mannered computer programmer by day. Money, tax and law wizard by night:
+http://mymoneymagick.com/  ... by the way gold is real money, [the US dollar is not money](http://static.livingcosmos.org/www.financial-freedom-club.com/TheUSDollarisNotMoney.html), simply currency). Many people have had their apparent wealth is fictional dollar bills wiped off the map in the blink of the eye. Will you be starring in the next tragedy: 
+http://freegold.biz/zimbabwe/supreme
+
+
+
 </t>
 </tnodes>
 </leo_file>
