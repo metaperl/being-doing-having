@@ -10,6 +10,8 @@
 <find_panel_settings/>
 <vnodes>
 <v t="metaperl.20191124091501.2" a="E"><vh>Terrence-Monroe: Brannon</vh>
+<v t="metaperl.20191124093052.1"><vh>Social Media Links</vh></v>
+<v t="metaperl.20191128032627.1"><vh>Daily Bread</vh></v>
 <v t="metaperl.20191124100336.1" a="E"><vh>Life Mission and Vision</vh>
 <v t="metaperl.20191124100440.1"><vh>Isolation-Tank-Gnosis</vh></v>
 <v t="metaperl.20191124100629.1"><vh>The Quiet Center</vh></v>
@@ -18,7 +20,6 @@
 <v t="metaperl.20191124092807.1" a="E"><vh>Earthly Concerns</vh>
 <v t="metaperl.20191124093745.1"><vh>Communication and Relationships</vh></v>
 <v t="metaperl.20191124093656.1"><vh>Conspiracy Theory</vh></v>
-<v t="metaperl.20191124093052.1"><vh>Social Media Links</vh></v>
 <v t="metaperl.20191124093245.1"><vh>Streetdance</vh></v>
 </v>
 <v t="metaperl.20191124092401.1" a="E"><vh>Spirituality</vh>
@@ -29,7 +30,6 @@
 <v t="metaperl.20191124091655.1"><vh>Do not pay income tax!!!</vh></v>
 <v t="metaperl.20191124092010.1"><vh>Gold is Real Money but Crypto Rocks</vh></v>
 </v>
-<v t="metaperl.20191128032627.1"><vh>Daily Bread</vh></v>
 </v>
 </vnodes>
 <tnodes>
